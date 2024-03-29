@@ -1,0 +1,17 @@
+2024-03-28 14:27:04,102 - root - INFO - Started calculator application
+2024-03-28 14:27:49,640 - root - ERROR - Error during operation: add() missing 1 required positional argument: 'y'
+2024-03-28 14:28:02,516 - root - INFO - Operation: /, Values: [9.0, 9.0], Result: 1.0
+2024-03-28 14:28:20,395 - root - INFO - Exiting calculator application
+2024-03-28 14:30:45,074 - root - INFO - yardley started the calculator application
+2024-03-28 14:30:56,637 - root - INFO - Operation: +, Values: [9.0, 9.0], Result: 18.0. User: yardley
+2024-03-28 14:31:00,164 - root - INFO - yardley exited the calculator application
+2024-03-28 14:55:40,531 - root - INFO - quit started the calculator application
+2024-03-28 14:55:44,060 - root - INFO - quit exited the calculator application
+2024-03-28 14:55:50,204 - root - INFO - yardley started the calculator application
+2024-03-28 14:55:56,117 - root - INFO - Operation: +, Values: [8.0, 9.0], Result: 17.0. User: yardley
+2024-03-28 14:55:59,256 - root - INFO - yardley exited the calculator application
+2024-03-28 14:57:01,010 - root - INFO - yardley started the calculator application
+2024-03-28 14:57:10,108 - root - INFO - Operation: *, Values: [7.0, 7.0], Result: 49.0. User: yardley
+2024-03-28 14:57:12,886 - root - INFO - yardley exited the calculator application
+2024-03-28 14:58:41,760 - root - INFO - yardley started the calculator application
+2024-03-28 14:58:46,644 - root - INFO - Operation: /, Values: [8.0, 9.0], Result: 0.8888888888888888. User: yardley
