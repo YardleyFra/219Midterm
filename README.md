@@ -1,2 +1,0 @@
-# midTerm219
-midTermCalculatorApp
